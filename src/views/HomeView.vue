@@ -101,7 +101,7 @@
       </div>
     </div>
     <!-- image -->
-    <div class="enhance w-full md:w-2/3 bg-[url('@/assets/images/kid-red.webp')] bg-cover h-[400px] sm:h-[500px] md:h-[560px]">
+    <div class="enhance w-full md:w-1/3 bg-[url('@/assets/images/kid-red.webp')] bg-cover h-[400px] sm:h-[500px] md:h-[560px]">
     </div>
   </div>
 </div>

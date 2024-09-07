@@ -18,8 +18,24 @@
     </div>
   </section>
 
+  
+  <!-- What we offer -->
+  <section class="bg-seablue p-6 md:p-12 lg:p-32 flex flex-col md:flex-row">
+    <div class="w-full md:w-1/2 flex flex-col mb-6 md:mb-0">
+      <p class="red1 font-bold text-3xl md:text-4xl lg:text-6xl">What we offer</p>
+      <p class="text-2xl md:text-3xl lg:text-4xl my-8">Day & Boarding Facilities</p>
+    </div>
+    <!-- vision statement -->
+    <div class="w-full md:w-1/2 leading-loose">
+      <ul class="list-disc">
+        <li class="text-2xl md:text-3xl lg:text-4xl">Pre-School</li>
+        <li class="text-2xl md:text-3xl lg:text-4xl">Primary</li>
+        <li class="text-2xl md:text-3xl lg:text-4xl">JHS</li>
+      </ul>
+    </div>
+  </section>
+  
   <!-- Rest -->
-
   <section>
     <!-- row 1 -->
     <div class="flex flex-col md:flex-row md:h-80 w-full my-4">
@@ -54,7 +70,7 @@
         </div>
         <!-- img box -->
         <div class="w-full md:w-1/2 h-48 md:h-auto">
-          <img src="@/assets/images/gay.webp" alt="student with macbook" class="w-full h-full object-cover">
+          <img src="@/assets/images/image6.jpeg" alt="student with macbook" class="w-full h-full object-cover">
         </div>
       </div>
 

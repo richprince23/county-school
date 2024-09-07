@@ -6,10 +6,13 @@
         <!-- address -->
         <div class="address  my-4 w-full tb:w-2/3">
           <h5 class="text-2xl font-bold blue1 mb-4">County International School</h5>
-          <p class="text-[14px] blue1">Opposite Mustapha Real Estate</p>
-          <p class="text-[14px] blue1">Potsin, Winneba</p>
+          <p class="text-[14px] blue1">MOTTO: <q>Education for All</q></p>
+          <p class="text-[14px] blue1">Opposite Mustapha Real Estate, Potsin</p>
+          <p class="text-[14px] blue1">P.O BOX KU 218, Winneba</p>
           <p class="text-[14px] blue1">Central Region, Ghana</p>
-          <p class="text-[14px] blue1">globalinternationalschool@yahoo.com</p>
+          <p class="text-[14px] blue1">countyinternationalschool@yahoo.com</p>
+          <p class="text-[14px] blue1">Phone : 0553750080</p>
+
         </div>
         <!-- community -->
         <div class="community my-4">
