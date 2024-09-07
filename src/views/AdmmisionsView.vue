@@ -29,13 +29,13 @@
     </div>
     <!-- tuition -->
      <div class="mssion w-1/2 bg-orange1 p-32">
-        <h4 class="text-3xl font-bold my-8 leading-loose">Tuition</h4>
-        <p class="text-base">At County International School, we are guided by the principles of respect, responsibility, integrity, compassion, and courage. 
+        <h4 class="text-3xl font-bold my-8 ">Tuition</h4>
+        <p class="text-base leading-loose">At County International School, we are guided by the principles of respect, responsibility, integrity, compassion, and courage. 
             These values form the foundation of our educational approach and are integrated into every aspect of our school's culture and curriculum.
         </p>
         <div class="flex flex-row justify-between my-12">
           <a href="/assets/sample.pdf" class="font-bold underline">Tuition & Fees</a>
-          <a href="" class="font-bold underline">Student Billing</a>
+          <a href="/assets/sample.pdf" class="font-bold underline">Student Billing</a>
 
         </div>
      </div>
