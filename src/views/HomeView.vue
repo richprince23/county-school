@@ -29,14 +29,14 @@
     </div>
 
     <!-- advantage -->
-    <d class="advantange">
-      <h3 class="text-4xl font-bold my-16 blue1">Discover the CIS Advantage</h3>
+    <div class="advantange">
+      <h3 class="text-xl tb:text-2xl md:text-4xl font-bold my-16 blue1">Discover the CIS Advantage</h3>
       <!-- grids -->
-      <div class="flex flex-col md:flex-row justify-center" id="row1">
-        <div class="w-8/12 h-[560px] bg-[url('@/assets/images/image5.jpeg')] bg-cover bg-center">
-          <div class="p-12 bg-black bg-opacity-30 w-12/12 h-full flex flex-col">
+      <div class="flex flex-col tb:flex-row justify-center" id="row1">
+        <div class="w-full tb:w-1/2 md:w-8/12 tb:h-[460px] md:h-[560px] bg-[url('@/assets/images/image5.jpeg')] bg-cover bg-center">
+          <div class="p-12 bg-black bg-opacity-30 w-full h-full flex flex-col">
             <p class="text-white text-3xl font-medium text-left">Our Approach</p>
-            <p class="w-1/3 text-[22px] mt-8 text-white">County International School offers Montessori for pre-school
+            <p class="w-full tb:w-2/3 text-[16px] tb:text-[22px] mt-8 text-white">County International School offers Montessori for pre-school
               and a British/American curriculum for primary education. Our approach focuses on holistic development and
               personalized learning.</p>
             <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline mt-8">Learn
@@ -94,7 +94,7 @@
         <div class="enhance w-1/3 bg-[url('@/assets/images/kid-red.webp')] bg-cover">
         </div>
       </div>
-    </d>
+    </div>
     <!-- GIS in Numbers -->
     <section>
       <h3 class="text-4xl blue1 my-16 font-bold">GIS in Numbers</h3>
