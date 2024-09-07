@@ -9,7 +9,7 @@
       <nav class="nav-links">
         <ul class="flex ">
           <RouterLink to="/about" title="About" class="mx-3 hover:brown1 blue1">About</RouterLink>
-          <RouterLink to="/#" title="Admissions" class="mx-3 hover:brown1 blue1">Admissions</RouterLink>
+          <RouterLink to="/admissions" title="Admissions" class="mx-3 hover:brown1 blue1">Admissions</RouterLink>
           <RouterLink to="/#" title="Learning" class="mx-3 hover:brown1 blue1 ">Learning</RouterLink>
         </ul>
       </nav>
