@@ -5,8 +5,8 @@
 <template>
   <main>
     <!-- intro -->
-    <div class="h-[320px] tb:h-[480px] md:h-[680px] w-full flex flex-col md:flex-row">
-      <div class="bg-brown2 w-full md:w-5/12 flex flex-col justify-center p-8 py-16 tb:px-8 md:px-12">
+    <div class="h-[400px] tb:h-[560px] md:h-[680px] w-full flex flex-col md:flex-row">
+      <div class="bg-brown2 w-full md:w-5/12 flex flex-col justify-center p-8 py-16 tb:py-20 tb:px-8 md:px-12">
         <p class="text-[32px] tb:text-[42px] md:text-[48px] leading-none font-bold text-left seablue m-0 mb-4">Welcome to County International School
         </p>
         <router-link to="/about" title="About" class="font-medium text-[18px] seablue underline">About Our School</router-link>
@@ -16,17 +16,18 @@
       </div>
     </div>
     <!--  -->
-    <div class=" h-[600px] flex flex-row">
-      <div class="bg-seablue w-6/12 flex">
+    <div class="h-[300px] tb:h-[460px] md:h-[600px] flex flex-col tb:flex-row">
+      <div class="bg-seablue w-full tb:w-1/2 flex">
         <img src="@/assets/images/image6.jpeg" alt="school-image" class="object-fill px-16 py-20">
       </div>
-      <div class="bg-bluelight w-6/12 flex flex-col justify-center px-20">
-        <p class="text-[42px] leading-none font-bold text-left blue1 m-0 mb-4">Education with Safety First</p>
-        <p class="text-[18px] blue1 mb-4">At County International School, we prioritize safety. Our full reopening plans
+      <div class="bg-bluelight w-full tb:w-1/2 flex flex-col justify-center px-8 tb:px-12 md:px-20">
+        <p class="text-[24px] tb:text-[30px] md:text-[42px] leading-none font-bold text-left blue1 m-0 my-4">Education with Safety First</p>
+        <p class="text-[16px] tb:text-[18px] blue1 mb-4">At County International School, we prioritize safety. Our full reopening plans
           for the year include a learning model to ensure the well-being of our students and staff.</p>
-        <router-link to="/#" title="About" class="font-medium text-[18px] blue1 underline">Learn More</router-link>
+        <router-link to="/#" title="About" class="font-medium text-[16px] tb:text-[18px] blue1 underline">Learn More</router-link>
       </div>
     </div>
+
     <!-- advantage -->
     <d class="advantange">
       <h3 class="text-4xl font-bold my-16 blue1">Discover the CIS Advantage</h3>
