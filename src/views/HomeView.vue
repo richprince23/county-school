@@ -20,7 +20,7 @@
       </div>
       <div class="bg-bluelight w-6/12 flex flex-col justify-center px-20">
         <p class="text-[42px] leading-none font-bold text-left blue1 m-0 mb-4">Education with Safety First</p>
-        <p class="text-[18px] blue1 mb-4">At Global International School, we prioritize safety. Our full reopening plans
+        <p class="text-[18px] blue1 mb-4">At County International School, we prioritize safety. Our full reopening plans
           for the year include a learning model to ensure the well-being of our students and staff.</p>
         <router-link to="/#" title="About" class="font-medium text-[18px] blue1 underline">Learn More</router-link>
       </div>
@@ -33,7 +33,7 @@
         <div class="w-8/12 h-[560px] bg-[url('@/assets/images/image5.jpeg')] bg-cover bg-center">
           <div class="p-12 bg-black bg-opacity-30 w-12/12 h-full flex flex-col">
             <p class="text-white text-3xl font-medium text-left">Our Approach</p>
-            <p class="w-1/3 text-[22px] mt-8 text-white">Global International School offers Montessori for pre-school
+            <p class="w-1/3 text-[22px] mt-8 text-white">County International School offers Montessori for pre-school
               and a British/American curriculum for primary education. Our approach focuses on holistic development and
               personalized learning.</p>
             <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline mt-8">Learn
@@ -43,7 +43,7 @@
         </div>
         <div class="admission-text bg-red1 w-4/12 p-12">
           <p class="text-white text-3xl font-medium text-left">Admission</p>
-          <p class="w-8/12 font-light my-8 text-white">Experience the difference at Global International School. Enroll
+          <p class="w-8/12 font-light my-8 text-white">Experience the difference at County International School. Enroll
             your child today to provide them with a world-class education.</p>
           <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">Enroll
             Today</router-link>
@@ -65,7 +65,7 @@
         <div class="news w-1/3 bg-red2 bg-cover p-12">
           <div class="w-3/5">
             <p class="text-3xl text-white font-bold mb-8">Latest News & Events</p>
-            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at Global International
+            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at County International
               School. Join us in our journey of providing quality education for all.</p>
             <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">View
               Programs</router-link>
@@ -81,7 +81,7 @@
         <div class="news w-1/3 bg-brown1 bg-cover p-12">
           <div class="w-3/5">
             <p class="text-3xl text-white font-bold mb-8">Latest News & Events</p>
-            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at Global International
+            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at County International
               School. Join us in our journey of providing quality education for all.</p>
             <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">View
               Programs</router-link>
@@ -149,6 +149,6 @@
         </div>
       </section>
     </section>
-    
+
   </main>
 </template>

@@ -36,6 +36,14 @@
   .red2 {
     color: #9A2A1D;
   }
+
+  .orange1{
+    color: #F8D3C6;
+  }
+
+  .orangelight{
+    color: #FBE8E2;
+  }
   
   /* Background Colors */
   .bg-seablue {
@@ -70,6 +78,13 @@
     background-color: #9A2A1D;
   }
   
+  .bg-orange1{
+   background-color: #F8D3C6;
+  }
+
+  .bg-orangelight{
+    background-color: #FBE8E2;
+  }
   /* Hover Text Colors */
 .hover\:seablue:hover {
   color: #CFEBF4;
@@ -101,6 +116,14 @@
 
 .hover\:red2:hover {
   color: #9A2A1D;
+}
+
+.hover\:orange1:hover {
+  color: #F8D3C6;
+}
+
+.hover\:orangelight:hover {
+  color: #FBE8E2;
 }
 
 /* Hover Background Colors */
