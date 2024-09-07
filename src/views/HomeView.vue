@@ -5,15 +5,17 @@
 <template>
   <main>
     <!-- intro -->
-    <div class=" h-[768px] flex md:flex-row">
-      <div class="bg-brown2 w-5/12 flex flex-col justify-center px-20">
-        <p class="text-[76px] leading-none font-bold text-left seablue m-0 mb-4">Welcome to County International School
+    <div class="h-[320px] tb:h-[480px] md:h-[680px] w-full flex flex-col md:flex-row">
+      <div class="bg-brown2 w-full md:w-5/12 flex flex-col justify-center p-8 py-16 tb:px-8 md:px-12">
+        <p class="text-[32px] tb:text-[42px] md:text-[48px] leading-none font-bold text-left seablue m-0 mb-4">Welcome to County International School
         </p>
-        <router-link to="/#" title="About" class="font-medium text-[18px] seablue underline">About Our
-          School</router-link>
+        <router-link to="/about" title="About" class="font-medium text-[18px] seablue underline">About Our School</router-link>
       </div>
-      <img src="@/assets/images/image7.jpeg" alt="school-image" class="object-cov w-7/12">
+      <div class="w-full md:w-7/12">
+        <img src="@/assets/images/image7.jpeg" alt="school-image" class="w-full object-cover h-full">
+      </div>
     </div>
+    <!--  -->
     <div class=" h-[600px] flex flex-row">
       <div class="bg-seablue w-6/12 flex">
         <img src="@/assets/images/image6.jpeg" alt="school-image" class="object-fill px-16 py-20">

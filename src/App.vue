@@ -6,7 +6,7 @@ import FooterView from './components/FooterView.vue';
 </script>
 
 <template>
-  <main class="mx-16">
+  <main class="md:mx-16">
     <AppBar/>
 
     <RouterView />
