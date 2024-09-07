@@ -1,0 +1,137 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Colors */
+/* Text Colors */
+.seablue {
+    color: #CFEBF4;
+  }
+  
+  .blue1 {
+    color: #0D254C;
+  }
+  
+  .blue2 {
+    color: #0C254C;
+  }
+  
+  .bluelight {
+    color: #E7F8FE;
+  }
+  
+  .brown1 {
+    color: #73291F;
+  }
+  
+  .brown2 {
+    color: #99281B;
+  }
+  
+  .red1 {
+    color: #C44836;
+  }
+  
+  .red2 {
+    color: #9A2A1D;
+  }
+  
+  /* Background Colors */
+  .bg-seablue {
+    background-color: #CFEBF4;
+  }
+  
+  .bg-blue1 {
+    background-color: #0D254C;
+  }
+  
+  .bg-blue2 {
+    background-color: #0C254C;
+  }
+  
+  .bg-bluelight {
+    background-color: #E7F8FE;
+  }
+  
+  .bg-brown1 {
+    background-color: #73291F;
+  }
+  
+  .bg-brown2 {
+    background-color: #99281B;
+  }
+  
+  .bg-red1 {
+    background-color: #C44836;
+  }
+  
+  .bg-red2 {
+    background-color: #9A2A1D;
+  }
+  
+  /* Hover Text Colors */
+.hover\:seablue:hover {
+  color: #CFEBF4;
+}
+
+.hover\:blue1:hover {
+  color: #0D254C;
+}
+
+.hover\:blue2:hover {
+  color: #0C254C;
+}
+
+.hover\:bluelight:hover {
+  color: #E7F8FE;
+}
+
+.hover\:brown1:hover {
+  color: #73291F;
+}
+
+.hover\:brown2:hover {
+  color: #99281B;
+}
+
+.hover\:red1:hover {
+  color: #C44836;
+}
+
+.hover\:red2:hover {
+  color: #9A2A1D;
+}
+
+/* Hover Background Colors */
+.hover\:bg-seablue:hover {
+  background-color: #CFEBF4;
+}
+
+.hover\:bg-blue1:hover {
+  background-color: #0D254C;
+}
+
+.hover\:bg-blue2:hover {
+  background-color: #0C254C;
+}
+
+.hover\:bg-bluelight:hover {
+  background-color: #E7F8FE;
+}
+
+.hover\:bg-brown1:hover {
+  background-color: #73291F;
+}
+
+.hover\:bg-brown2:hover {
+  background-color: #99281B;
+}
+
+.hover\:bg-red1:hover {
+  background-color: #C44836;
+}
+
+.hover\:bg-red2:hover {
+  background-color: #9A2A1D;
+}

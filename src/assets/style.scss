@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+/* variables */
+$bgCol : #fff;
+
+@layer components {
+
+    /* mixins */
+    .btn-light {
+        @apply bg-light py-2 px-4 rounded-none col-red;
+    }
+
+    .btn-main {
+        @apply bg-red text-white py-2 px-4 rounded-none;
+    }
+}
