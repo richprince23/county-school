@@ -95,7 +95,7 @@
       <div class="md:w-4/5">
         <p class="text-xl sm:text-2xl md:text-3xl text-white font-bold mb-4 md:mb-8">For the Parents</p>
         <p class="text-white mb-4 sm:mb-8">We understand the importance of parental involvement. Get informed about our educational approach, events, 
-          and your child's progress at Global International School.</p>
+          and your child's progress at County International School.</p>
         <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline">Parent
           Resources</router-link>
       </div>

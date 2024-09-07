@@ -3,7 +3,7 @@
     <section class="flex flex-col md:flex-row">
       <!-- about -->
       <div class="w-full md:w-1/2 bg-bluelight p-6 md:p-12 lg:p-24 mb-8">
-        <h3 class="text-2xl tb:text-3xl md:text-4xl lg:text-6xl font-bold w-full tb:py-12 md:py-6 md:w-10/12 lg:w-8/12 mx-auto">Welcome to Global International School</h3>
+        <h3 class="text-2xl tb:text-3xl md:text-4xl lg:text-6xl font-bold w-full tb:py-12 md:py-6 md:w-10/12 lg:w-8/12 mx-auto">Welcome to County International School</h3>
         <p class="text-base tb:text-xl my-4 md:my-8 w-full md:w-10/12 lg:w-8/12 mx-auto">County International School is a new international school for pre-school and primary education. It offers Montessori for pre-school and British/American curriculum for the primary school.</p>
       </div>
       <div class="img-div w-full md:w-1/2 h-auto">

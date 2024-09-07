@@ -4,7 +4,7 @@
     <!-- about -->
     <div class="w-full md:w-1/2 bg-bluelight p-6 md:p-24">
       <h3 class="text-4xl md:text-6xl font-bold w-full md:w-10/12 mx-auto">About County International School</h3>
-      <p class="text-base tb:text-xl my-4 md:my-8 w-full md:w-10/12 mx-auto leading-relaxed md:leading-loose">At Global International School, we believe that every child
+      <p class="text-base tb:text-xl my-4 md:my-8 w-full md:w-10/12 mx-auto leading-relaxed md:leading-loose">At County International School, we believe that every child
         is unique and has their own learning style. Our experienced
         teachers are dedicated to providing individualized attention to each student, ensuring that they receive the
         support they need to succeed. With a focus on
@@ -37,7 +37,7 @@
 
       <!-- text side -->
       <div class="bg-orangelight w-full md:w-1/2">
-        <p class="p-6 md:p-12 w-full  text-base tb:text-xl">At Global International School, we believe that every student deserves access to quality education, no matter where they are in the world. 
+        <p class="p-6 md:p-12 w-full  text-base tb:text-xl">At County International School, we believe that every student deserves access to quality education, no matter where they are in the world. 
           Our online learning platform offers a flexible and personalized approach to education, allowing students to learn at their own pace and on their own schedule.
           With experienced teachers and a wide range of courses, we are committed to helping students achieve their academic goals and prepare for a successful future.
         </p>
@@ -62,7 +62,7 @@
       <div class="bg-orangelight w-full md:w-1/2">
         <p class="p-6 md:p-12 w-full  text-base tb:text-xl">Our Montessori program is not just about academics; it's about developing social skills, emotional intelligence, 
           and physical coordination. We encourage our students to explore their interests and passions and provide them with the tools they need to succeed.
-          At Global School, we help students reach their full potential and become confident, well-rounded individuals.
+          At County School, we help students reach their full potential and become confident, well-rounded individuals.
         </p>
       </div>
     </div>
