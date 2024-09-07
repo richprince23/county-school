@@ -18,12 +18,12 @@
       </div>
     </div>
     <!--  -->
-    <div class="h-[300px] tb:h-[460px] md:h-[600px] flex flex-col tb:flex-row">
+    <div class="h-full tb:h-[480px] md:h-[600px] flex flex-col tb:flex-row">
       <div class="bg-seablue w-full tb:w-1/2 flex">
-        <img src="@/assets/images/image6.jpeg" alt="school-image" class="object-fill px-16 py-20">
+        <img src="@/assets/images/image6.jpeg" alt="school-image" class="object-fill tb:px-8 md:px-16 py-20">
       </div>
-      <div class="bg-bluelight w-full tb:w-1/2 flex flex-col justify-center px-8 tb:px-12 md:px-20">
-        <p class="text-[24px] tb:text-[30px] md:text-[42px] leading-none font-bold text-left blue1 m-0 my-4">Education
+      <div class="bg-bluelight w-full tb:w-1/2 flex flex-col justify-center p-8 tb:px-12 md:px-20">
+        <p class="text-[22px] tb:text-[30px] md:text-[42px] leading-none font-bold text-left blue1  my-4">Education
           with Safety First</p>
         <p class="text-[16px] tb:text-[18px] blue1 mb-4">At County International School, we prioritize safety. Our full
           reopening plans
@@ -34,74 +34,77 @@
     </div>
 
     <!-- advantage -->
-    <div class="advantange">
-      <h3 class="text-xl tb:text-2xl md:text-4xl font-bold my-16 blue1">Discover the CIS Advantage</h3>
-      <!-- grids -->
-      <div class="flex flex-col tb:flex-row justify-center" id="row1">
-        <div
-          class="w-full tb:w-1/2 md:w-8/12 tb:h-[460px] md:h-[560px] bg-[url('@/assets/images/image5.jpeg')] bg-cover bg-center">
-          <div class="p-12 bg-black bg-opacity-30 w-full h-full flex flex-col">
-            <p class="text-white text-3xl font-medium text-left">Our Approach</p>
-            <p class="w-full tb:w-2/3 text-[16px] tb:text-[22px] mt-8 text-white">County International School offers
-              Montessori for pre-school
-              and a British/American curriculum for primary education. Our approach focuses on holistic development and
-              personalized learning.</p>
-            <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline mt-8">Learn
-              More</router-link>
-          </div>
-
-        </div>
-        <div class="admission-text bg-red1 w-4/12 p-12">
-          <p class="text-white text-3xl font-medium text-left">Admission</p>
-          <p class="w-8/12 font-light my-8 text-white">Experience the difference at County International School. Enroll
-            your child today to provide them with a world-class education.</p>
-          <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">Enroll
-            Today</router-link>
-        </div>
+<!-- advantage -->
+<div class="advantage">
+  <h3 class="text-xl sm:text-2xl md:text-4xl font-bold px-4 sm:px-8 my-8 md:my-16 blue1 text-center">Discover the CIS Advantage</h3>
+  
+  <!-- grids -->
+  <!-- row 1 -->
+  <div class="flex flex-col sm:flex-row justify-center" id="row1">
+    <div class="w-full sm:w-1/2 md:w-8/12 h-[400px] sm:h-[480px] md:h-[560px] bg-[url('@/assets/images/image5.jpeg')] bg-cover bg-center">
+      <div class="p-6 md:p-12 bg-black bg-opacity-30 w-full h-full flex flex-col justify-center">
+        <p class="text-white text-2xl sm:text-3xl font-medium">Our Approach</p>
+        <p class="w-full sm:w-2/3 text-base sm:text-lg md:text-xl mt-4 sm:mt-8 text-white">County International School offers
+          Montessori for pre-school and a British/American curriculum for primary education. Our approach focuses on holistic development and
+          personalized learning.</p>
+        <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline mt-4 sm:mt-8">Learn
+          More</router-link>
       </div>
-      <div class="flex flex-col md:flex-row justify-center h-[560px] " id="row2">
-        <div class="enhance w-1/3 bg-[url('@/assets/images/kid-hand.webp')] bg-cover">
-          <div class="p-12 bg-black bg-opacity-30 w-12/12 h-full flex flex-col">
-            <div class="w-3/5">
-              <p class="text-3xl text-white font-bold mb-8">Enhance Learning</p>
-              <p class="text-white mb-8">Our dedicated programs and activities are designed to enhance learning and
-                foster creativity, critical thinking, and problem-solving skills in our students.</p>
-              <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">View
-                Programs</router-link>
-            </div>
-          </div>
-        </div>
-        <!-- news -->
-        <div class="news w-1/3 bg-red2 bg-cover p-12">
-          <div class="w-3/5">
-            <p class="text-3xl text-white font-bold mb-8">Latest News & Events</p>
-            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at County International
-              School. Join us in our journey of providing quality education for all.</p>
-            <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">View
-              Programs</router-link>
-          </div>
-        </div>
-        <!-- image -->
-        <div class="enhance w-1/3 bg-[url('@/assets/images/kids-face.webp')] bg-cover">
-        </div>
-      </div>
-      <!-- row 3 -->
-      <div class="flex flex-col md:flex-row justify-start h-[560px] " id="row3">
-        <!-- parents -->
-        <div class="news w-1/3 bg-brown1 bg-cover p-12">
-          <div class="w-3/5">
-            <p class="text-3xl text-white font-bold mb-8">Latest News & Events</p>
-            <p class="text-white mb-8">Stay updated with the latest news, events, and happenings at County International
-              School. Join us in our journey of providing quality education for all.</p>
-            <router-link to="/#" title="About" class="font-medium text-[18px] text-white underline ">View
-              Programs</router-link>
-          </div>
-        </div>
-        <!-- image -->
-        <div class="enhance w-1/3 bg-[url('@/assets/images/kid-red.webp')] bg-cover">
+    </div>
+    <div class="admission-text bg-red1 w-full sm:w-1/2 md:w-4/12 p-6 sm:p-8 md:p-12 h-[400px] sm:h-[480px] md:h-[560px] flex flex-col justify-center">
+      <p class="text-white text-2xl sm:text-3xl font-medium">Admission</p>
+      <p class="w-full sm:w-10/12 md:w-8/12 font-light my-4 sm:my-8 text-white">Experience the difference at County International School. Enroll
+        your child today to provide them with a world-class education.</p>
+      <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline">Enroll
+        Today</router-link>
+    </div>
+  </div>
+  
+  <!-- row 2 -->
+  <div class="flex flex-col md:flex-row justify-center h-auto" id="row2">
+    <div class="enhance w-full md:w-1/3 h-[400px] sm:h-[500px] md:h-[560px] bg-[url('@/assets/images/kid-hand.webp')] bg-cover">
+      <div class="p-6 sm:p-8 md:p-12 bg-black bg-opacity-30 w-full h-full flex flex-col justify-center">
+        <div class="md:w-4/5">
+          <p class="text-xl sm:text-2xl md:text-3xl text-white font-bold mb-4 sm:mb-8">Enhance Learning</p>
+          <p class="text-white mb-4 md:mb-8">Our dedicated programs and activities are designed to enhance learning and
+            foster creativity, critical thinking, and problem-solving skills in our students.</p>
+          <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline">View
+            Programs</router-link>
         </div>
       </div>
     </div>
+    <!-- news -->
+    <div class="news w-full md:w-1/3 bg-red2 bg-cover p-6 sm:p-8 md:p-12 h-[400px] sm:h-[500px] md:h-[560px] flex flex-col justify-center">
+      <div class="md:w-4/5">
+        <p class="text-xl sm:text-2xl md:text-3xl text-white font-bold mb-4 md:mb-8">Latest News & Events</p>
+        <p class="text-white mb-4 md:mb-8">Stay updated with the latest news, events, and happenings at County International
+          School. Join us in our journey of providing quality education for all.</p>
+        <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline">View
+          News</router-link>
+      </div>
+    </div>
+    <!-- image -->
+    <div class="enhance w-full md:w-1/3 bg-[url('@/assets/images/kids-face.webp')] bg-cover h-[400px] sm:h-[500px] md:h-[560px]">
+    </div>
+  </div>
+  
+  <!-- row 3 -->
+  <div class="flex flex-col md:flex-row justify-start h-auto" id="row3">
+    <!-- parents -->
+    <div class="news w-full md:w-1/3 bg-brown1 bg-cover p-6 sm:p-8 md:p-12 h-[400px] sm:h-[500px] md:h-[560px] flex flex-col justify-center">
+      <div class="md:w-4/5">
+        <p class="text-xl sm:text-2xl md:text-3xl text-white font-bold mb-4 md:mb-8">For the Parents</p>
+        <p class="text-white mb-4 sm:mb-8">We understand the importance of parental involvement. Get informed about our educational approach, events, 
+          and your child's progress at Global International School.</p>
+        <router-link to="/#" title="About" class="font-medium text-base sm:text-lg text-white underline">Parent
+          Resources</router-link>
+      </div>
+    </div>
+    <!-- image -->
+    <div class="enhance w-full md:w-2/3 bg-[url('@/assets/images/kid-red.webp')] bg-cover h-[400px] sm:h-[500px] md:h-[560px]">
+    </div>
+  </div>
+</div>
 
     <!-- GIS in Numbers -->
     <section class="">
