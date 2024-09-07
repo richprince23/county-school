@@ -1,10 +1,10 @@
 <template>
   <section class="">
-    <div class="flex flex-row">
+    <div class="flex flex-col md:flex-row">
       <!-- info section -->
-      <div class="info-section p-12 flex flex-row w-1/2">
+      <div class="info-section p-12 flex flex-col tb:justify-around tb:flex-row w-full md:w-1/2">
         <!-- address -->
-        <div class="address w-2/3">
+        <div class="address  my-4 w-full tb:w-2/3">
           <h5 class="text-2xl font-bold blue1 mb-4">County International School</h5>
           <p class="text-[14px] blue1">Opposite Mustapha Real Estate</p>
           <p class="text-[14px] blue1">Potsin, Winneba</p>
@@ -12,7 +12,7 @@
           <p class="text-[14px] blue1">globalinternationalschool@yahoo.com</p>
         </div>
         <!-- community -->
-        <div class="community">
+        <div class="community my-4">
           <h5 class="text-2xl font-bold blue1 mb-4">Join the Community </h5>
           <a class="text-[20px] blue1">Facebook</a>
           <p class="text-[20px] blue1">Twitter</p>
@@ -21,8 +21,8 @@
         </div>
       </div>
       <!-- contact session -->
-      <div class="w-1/2 p-12">
-        <div class="w-8/12 mx-auto">
+      <div class="w-full md:w-1/2 p-12 my-4">
+        <div class="w-full tb:w-8/12 mx-auto">
           <h2 class="blue1 font-bold text-2xl mb-4">Contact</h2>
           <form @submit.prevent="submitForm" class="space-y-4">
             <!-- Name Fields -->
