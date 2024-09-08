@@ -39,13 +39,13 @@
   </section>
 
   <!-- faqs -->
-  <section class="flex flex-col md:flex-row my-4 md:my-8">
-    <!-- admission -->
+  <!-- <section class="flex flex-col md:flex-row my-4 md:my-8">
+
     <div class="w-full md:w-1/2 bg-bluelight p-6 md:p-24">
       <h3 class="text-2xl md:text-3xl font-bold mx-auto mb-2 md:mb-4">FAQ</h3>
       <h3 class="text-lg md:text-xl font-bold mx-auto">Frequently Asked Questions</h3>
       <div class="my-4 md:my-8">
-        <!-- FAQ 1 -->
+
         <div class="border-b">
           <button @click="toggleFAQ(0)" class="w-full text-left py-3 md:py-4 font-semibold text-blue1">
             What is an FAQ section?
@@ -59,7 +59,7 @@
           </div>
         </div>
 
-        <!-- FAQ 2 -->
+
         <div class="border-b">
           <button @click="toggleFAQ(1)" class="w-full text-left py-3 md:py-4 font-semibold text-blue1">
             Why do FAQs matter?
@@ -73,7 +73,7 @@
           </div>
         </div>
 
-        <!-- FAQ 3 -->
+
         <div class="border-b">
           <button @click="toggleFAQ(2)" class="w-full text-left py-3 md:py-4 font-semibold text-blue1">
             Where can I add my FAQs?
@@ -89,16 +89,15 @@
     <div class="img-div w-full md:w-1/2 h-64 md:h-auto">
       <img src="@/assets/images/kids-glass.webp" alt="" class="object-cover w-full h-full">
     </div>
-  </section>
+  </section> -->
 </template>
 
 <script setup>
 import { ref } from 'vue';
 
-// Reactive state to track the opened FAQ item
 const activeIndex = ref(null);
 
-// Function to toggle FAQ items
+// function to toggle faq items
 const toggleFAQ = (index) => {
   activeIndex.value = activeIndex.value === index ? null : index;
 };
