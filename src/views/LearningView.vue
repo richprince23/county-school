@@ -26,11 +26,11 @@
       <p class="text-2xl md:text-3xl lg:text-4xl my-8">Day & Boarding Facilities</p>
     </div>
     <!-- vision statement -->
-    <div class="w-full md:w-1/2 leading-loose">
-      <ul class="list-disc">
-        <li class="text-2xl md:text-3xl lg:text-4xl">Pre-School</li>
-        <li class="text-2xl md:text-3xl lg:text-4xl">Primary</li>
-        <li class="text-2xl md:text-3xl lg:text-4xl">JHS</li>
+    <div class="w-full md:w-1/2 leading-loose px-8">
+      <ul class="list-disc space-y-4">
+        <li class="text-xl tb:text-2xl md:text-3xl lg:text-4xl">Pre-School</li>
+        <li class="text-xl tb:text-2xl md:text-3xl lg:text-4xl">Primary</li>
+        <li class="text-xl tb:text-2xl md:text-3xl lg:text-4xl">JHS</li>
       </ul>
     </div>
   </section>
