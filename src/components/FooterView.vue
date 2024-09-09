@@ -57,6 +57,9 @@
         </div>
       </div>
     </div>
+    <div class="company mt-8 p-8">
+      <p class="text-base blue2"> &copy 2024 by County International School. Powered and secured by Flair Technologies</p>
+    </div>
   </section>
 </template>
 
