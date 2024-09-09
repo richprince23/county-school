@@ -65,9 +65,9 @@
         <p class="text-base tb:text-xl">Meet the dedicated and passionate team at County International School who are committed to providing an exceptional educational experience for our students.</p>
     </div>
 
-   <!-- staff row 1 -->
-<div class="flex flex-col md:flex-row mt-8">
-    <!-- staff 1 -->
+
+<!-- <div class="flex flex-col md:flex-row mt-8">
+
     <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/emily.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end text-white">
       <div class="bg-blue1  tb:w-10/12  mx-8 md:mb-8 p-4">
         <p class="text-base tb:text-xl font-bold">Emily Cole</p>
@@ -75,7 +75,7 @@
         <a href="mailto:emily.cole@gischool.com" class="text-base underline">emily.cole@gischool.com</a>
       </div>
     </div>
-    <!-- staff 2 -->
+
     <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/adam.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end">
       <div class="bg-bluelight tb:w-10/12  mx-8 md:mb-8 p-4">
         <p class="text-base tb:text-xl font-bold">Adam Ginzberg</p>
@@ -83,7 +83,7 @@
         <a href="mailto:adam.ginzberg@gischool.com" class="text-base underline">adam.ginzberg@gischool.com</a>
       </div>
     </div>
-    <!-- staff 3 -->
+
     <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/kelly.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end text-white">
       <div class="bg-blue1 tb:w-10/12  mx-8 md:mb-8 p-4">
         <p class="text-base tb:text-xl font-bold">Kelly Carmen</p>
@@ -92,30 +92,31 @@
       </div>
     </div>
   </div>
-  
-  <!-- staff row 2 -->
+   -->
+
   <div class="flex flex-col md:flex-row ">
-    <!-- staff 4 -->
-    <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/alex.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end text-white">
+
+    <!-- <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/alex.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end text-white">
       <div class="bg-blue1 tb:w-10/12 mx-8 md:mb-8 p-4">
         <p class="text-base tb:text-xl font-bold">Alex T. Yang</p>
         <p class="text-2xl mb-4">Grades 4-6</p>
         <a href="mailto:alex.yang@gischool.com" class="text-base underline">alex.yang@gischool.com</a>
       </div>
     </div>
-    <!-- staff 5 -->
+
     <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/aiden.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end">
       <div class="bg-bluelight tb:w-10/12  mx-8 md:mb-8 p-4">
         <p class="text-base tb:text-xl font-bold">Aiden Henderson</p>
         <p class="text-2xl mb-4">Admissions Director</p>
         <a href="mailto:aiden.henderson@gischool.com" class="text-base underline">aiden.henderson@gischool.com</a>
       </div>
-    </div>
+    </div> -->
     <!-- staff 6 -->
+
     <div class="img-box mx-auto mt-8 md:mt-0 h-96 bg-[url('@/assets/images/johnson.webp')] bg-cover bg-start bg-no-repeat w-full tb:w-1/2 md:w-1/3 flex flex-col justify-end text-white">
-      <div class="bg-blue1 tb:w-10/12  mx-8 md:mb-8 p-4">
-        <p class="tb:text-base tb:text-xl font-bold">Johnson, Timothy D.</p>
-        <p class="tb:text-2xl mb-4">Financial Advisor</p>
+      <div class="bg-blue1 tb:w-10/12  mx-8 md:mb-2 p-4">
+        <p class="tb:text-sm tb:text-base font-bold">Johnson, Timothy D.</p>
+        <p class="tb:text-xl mb-2">Financial Advisor</p>
         <a href="mailto:trent.roman@gischool.com" class="text-base underline">trent.roman@gischool.com</a>
       </div>
     </div>
